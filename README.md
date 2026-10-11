@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Qingshan Liu — Building agents that remember and improve." width="100%" />
+  <img src="assets/banner.svg" alt="wanghai673 — Building agents that remember and improve." width="100%" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:51285901015@stu.ecnu.edu.cn">Contact</a>
 </p>
 
-### Hi, I'm Qingshan 👋
+### Hi, I'm wanghai673 👋
 
 I work on **agent memory** and **program evolution**, and build practical AI tools.
 I'm interested in how agents can retain useful experience and improve the programs they use.
