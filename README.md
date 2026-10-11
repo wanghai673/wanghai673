@@ -1,5 +1,3 @@
-📧 **Contact:** [51285901015@stu.ecnu.edu.cn](mailto:51285901015@stu.ecnu.edu.cn)
-
 ### Hi, I'm wanghai673 👋
 
 My research focuses on **Agent Memory** and **Self-Evolving Agents**.
@@ -27,3 +25,5 @@ Agentic Memory Systems as Evolvable Programs. MemPro evolves the prompts and cod
 <p align="center">
   <sub>Agent Memory · Self-Evolving Agents · Open Source</sub>
 </p>
+
+📧 **Contact:** [51285901015@stu.ecnu.edu.cn](mailto:51285901015@stu.ecnu.edu.cn)
