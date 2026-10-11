@@ -1,0 +1,37 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Qingshan Liu — Building agents that remember and improve." width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/wanghai673/MemPro">Research</a> &nbsp; · &nbsp;
+  <a href="https://arxiv.org/abs/2606.00619">Paper</a> &nbsp; · &nbsp;
+  <a href="mailto:51285901015@stu.ecnu.edu.cn">Contact</a>
+</p>
+
+### Hi, I'm Qingshan 👋
+
+I work on **agent memory** and **program evolution**, and build practical AI tools.
+I'm interested in how agents can retain useful experience and improve the programs they use.
+
+### Featured research
+
+**[MemPro](https://github.com/wanghai673/MemPro)** · EMNLP 2026
+
+Agentic Memory Systems as Evolvable Programs. MemPro evolves the prompts and code of an agent's memory construction and retrieval pipeline through iterative editing and evaluation.
+
+[Read the paper ↗](https://arxiv.org/abs/2606.00619) &nbsp; · &nbsp; [Explore the code ↗](https://github.com/wanghai673/MemPro)
+
+### Things I've built
+
+| Project | What it does |
+| :--- | :--- |
+| **[Jev Browser Skill](https://github.com/wanghai673/jev-browser-skill)** | Browser automation skill for Codex, powered by Jev. |
+| **[Extract Image Icons](https://github.com/wanghai673/extract-image-icons-skill)** | Extracts reusable icons from visual documents as transparent PNG assets. |
+| **[WinAssistant](https://github.com/wanghai673/WinAssistant)** | A voice recognition assistant with wake-word activation. |
+| **[Image2LLM](https://github.com/wanghai673/Image2LLM)** | Captures images, recognizes text, and sends it to an LLM for analysis. |
+
+---
+
+<p align="center">
+  <sub>Agent memory · Program evolution · Useful tools</sub>
+</p>
