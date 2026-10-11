@@ -20,4 +20,6 @@ Agentic Memory Systems as Evolvable Programs. MemPro evolves the prompts and cod
 | **[WinAssistant](https://github.com/wanghai673/WinAssistant)** | A voice recognition assistant with wake-word activation. |
 | **[Image2LLM](https://github.com/wanghai673/Image2LLM)** | Captures images, recognizes text, and sends it to an LLM for analysis. |
 
+---
+
 📧 **Contact:** [51285901015@stu.ecnu.edu.cn](mailto:51285901015@stu.ecnu.edu.cn)
