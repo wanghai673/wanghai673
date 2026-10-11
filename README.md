@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="wanghai673 — Building agents that remember and improve." width="100%" />
+  <img src="assets/banner-wanghai673-v2.svg" alt="wanghai673 — Agent Memory and Self-Evolving Agents" width="100%" />
 </p>
 
 <p align="center">
