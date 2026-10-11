@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="assets/banner-wanghai673-v2.svg" alt="wanghai673 — Agent Memory and Self-Evolving Agents" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/wanghai673/MemPro">Research</a> &nbsp; · &nbsp;
-  <a href="https://arxiv.org/abs/2606.00619">Paper</a> &nbsp; · &nbsp;
-  <a href="mailto:51285901015@stu.ecnu.edu.cn">Contact</a>
-</p>
+📧 **Contact:** [51285901015@stu.ecnu.edu.cn](mailto:51285901015@stu.ecnu.edu.cn)
 
 ### Hi, I'm wanghai673 👋
 
