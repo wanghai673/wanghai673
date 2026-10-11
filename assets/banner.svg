@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">wanghai673 — Agent memory and program evolution</title>
+  <title id="title">wanghai673 — Agent Memory and Self-Evolving Agents</title>
   <desc id="desc">A midnight blue banner with a connected memory graph and an introduction to wanghai673's research and open-source projects.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b35"/><stop offset="1" stop-color="#162b4a"/></linearGradient>
@@ -16,8 +16,8 @@
     <text x="57" y="182" font-size="22" fill="#b7c9e4">Building agents that remember and improve.</text>
     <g font-size="12" font-weight="600" letter-spacing="1">
       <rect x="56" y="225" width="149" height="34" rx="17" fill="#223b5b"/><text x="74" y="247" fill="#c5e7ff">AGENT MEMORY</text>
-      <rect x="217" y="225" width="190" height="34" rx="17" fill="#223b5b"/><text x="235" y="247" fill="#c5e7ff">PROGRAM EVOLUTION</text>
-      <rect x="419" y="225" width="140" height="34" rx="17" fill="#223b5b"/><text x="437" y="247" fill="#c5e7ff">OPEN SOURCE</text>
+      <rect x="217" y="225" width="218" height="34" rx="17" fill="#223b5b"/><text x="235" y="247" fill="#c5e7ff">SELF-EVOLVING AGENTS</text>
+      <rect x="447" y="225" width="140" height="34" rx="17" fill="#223b5b"/><text x="465" y="247" fill="#c5e7ff">OPEN SOURCE</text>
     </g>
   </g>
   <g fill="none" stroke="#70b5ef" stroke-width="1.5">

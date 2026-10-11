@@ -10,8 +10,8 @@
 
 ### Hi, I'm wanghai673 👋
 
-I work on **agent memory** and **program evolution**, and build practical AI tools.
-I'm interested in how agents can retain useful experience and improve the programs they use.
+My research focuses on **Agent Memory** and **Self-Evolving Agents**.
+I also build practical AI tools.
 
 ### Featured research
 
@@ -33,5 +33,5 @@ Agentic Memory Systems as Evolvable Programs. MemPro evolves the prompts and cod
 ---
 
 <p align="center">
-  <sub>Agent memory · Program evolution · Useful tools</sub>
+  <sub>Agent Memory · Self-Evolving Agents · Open Source</sub>
 </p>
